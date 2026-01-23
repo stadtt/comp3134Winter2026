@@ -1,0 +1,461 @@
+WHOIS
+
+1. Walmart.ca :
+
+walmart.ca
+WHOIS Information
+
+IP Address: 23.39.185.118
+
+Whois
+RDAP
+DNS Records
+Uptime
+Diagnostics
+Hide Contact Info
+Refresh Data
+The domain walmart.ca is registered. You can still try to buy it here.
+
+Registrar Information
+Registrar
+MarkMonitor International Canada Ltd.
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+Markmonitor.com
+Important Dates
+Created
+11/8/2000
+Updated
+10/30/2024
+Expires
+12/1/2026
+Nameservers
+Hostname	IP Address
+a22-67.akam.net	23.211.61.67
+a8-66.akam.net	2.16.40.66
+a10-66.akam.net	96.7.50.66
+a3-64.akam.net	96.7.49.64
+a5-65.akam.net	95.100.168.65
+a1-185.akam.net	193.108.91.185
+pdnswm1.ultradns.net	156.154.64.4
+pdnswm2.ultradns.net	156.154.65.4
+pdnswm3.ultradns.org	156.154.66.4
+pdnswm4.ultradns.org	156.154.67.4
+pdnswm5.ultradns.info	156.154.68.4
+pdnswm6.ultradns.co.uk	156.154.69.4
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Contact Information
+Registrant Contact
+Name
+Wal-Mart Canada Corp
+Address
+Mississauga, ON
+CA
+Phone
++1.9058212111
+Fax
++1.9058216353
+Email
+netnames [at] wal-mart [dot] com
+Admin Contact
+Name
+Kelly-Anne Kenny
+Organization
+Wal-Mart Canada Corp
+Address
+Mississauga, ON
+CA
+Phone
++1.9058212111
+Fax
++1.9058216353
+Email
+netnames [at] wal-mart [dot] com
+Tech Contact
+Name
+Kelly-Anne Kenny
+Organization
+Wal-Mart Canada Corp
+Address
+Mississauga, ON
+CA
+Phone
++1.9058212111
+Fax
++1.9058216353
+Email
+netnames [at] wal-mart [dot] com
+
+2. bestbuy.ca
+
+bestbuy.ca
+WHOIS Information
+
+IP Address: 23.12.147.52
+
+Whois
+RDAP
+DNS Records
+Uptime
+Diagnostics
+Hide Contact Info
+Refresh Data
+The domain bestbuy.ca is registered. You can still try to buy it here.
+
+Registrar Information
+Registrar
+MarkMonitor International Canada Ltd.
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+Markmonitor.com
+Important Dates
+Created
+10/17/2000
+Updated
+6/11/2025
+Expires
+6/11/2027
+Nameservers
+Hostname	IP Address
+asia3.akam.net	23.211.61.64
+eur2.akam.net	95.100.173.64
+use1.akam.net	72.246.46.64
+usc2.akam.net	184.26.160.64
+usw2.akam.net	184.26.161.64
+eur1.akam.net	2.16.130.64
+ns1-118.akam.net	193.108.91.118
+ns1-119.akam.net	193.108.91.119
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Contact Information
+Registrant Contact
+Name
+Best Buy Canada Ltd.
+Organization
+Best Buy Canada Ltd.
+Address
+Vancouver, BC
+CA
+Phone
++1.8883888887
+Fax
++1.6044121990
+Email
+www_names_admin [at] bestbuycanada [dot] ca
+Admin Contact
+Name
+Velliangiri Palanisamy
+Organization
+Best Buy Canada Ltd.
+Address
+Vancouver, BC
+CA
+Phone
++1.8883888887
+Fax
++1.6044121990
+Email
+www_names_admin [at] bestbuycanada [dot] ca
+Tech Contact
+Name
+Velliangiri Palanisamy
+Organization
+Best Buy Canada Ltd.
+Address
+Vancouver, BC
+CA
+Phone
++1.8883888887
+Fax
++1.6044121990
+Email
+www_names_admin [at] bestbuycanada [dot] ca
+Similar Domains
+bestb00kkeeping.com
+bestb12.com
+bestb2bai.info
+bestb2bapp.info
+bestb2bapps.info
+bestb2bbase.info
+best-b2bcapital-team.info
+bestb2bchatbot.com
+bestb2bcloud.info
+bestb2b.cn
+
+3.freedom.ca
+freedom.ca
+WHOIS Information
+
+IP Address: 195.35.15.5
+
+Whois
+RDAP
+DNS Records
+Uptime
+Diagnostics
+Hide Contact Info
+Refresh Data
+The domain freedom.ca is registered. You can still try to buy it here.
+
+Registrar Information
+Registrar
+Namespro Solutions Inc.
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+https://www.namespro.ca
+Important Dates
+Created
+10/30/2000
+Updated
+3/20/2025
+Expires
+3/1/2033
+Nameservers
+Hostname	IP Address
+slns1.namespro.ca	67.228.254.4
+slns2.namespro.ca	67.228.255.5
+Domain Status
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Contact Information
+Registrant Contact
+Name
+Freedom International Brokerage Company
+Organization
+Freedom International Brokerage Company
+Address
+Richmond, BC
+CA
+Phone
++1.6046828059
+Email
+b50-5b543469 [at] namesproprivacy [dot] ca
+Admin Contact
+Name
+Al Galvez
+Address
+Richmond, BC
+CA
+Phone
++1.6046828059
+Fax
++1.6046828059
+Email
+b50-5b543469 [at] namesproprivacy [dot] ca
+Tech Contact
+Name
+Al Galvez
+Address
+Richmond, BC
+CA
+Phone
++1.6046828059
+Fax
++1.6046828059
+Email
+b50-5b543469 [at] namesproprivacy [dot] ca
+Similar Domains
+freed0m3bank.weebly.com
+freed0mbk.com
+freed0mbk.info
+freed0mbk.org
+freed0mbk.us
+freed0m-business.ru
+freed0mbusiness.ru
+freed0m.fair-wood.org
+freed0m.nl
+freed0m.org
+
+4. bell.ca
+bell.ca
+WHOIS Information
+
+IP Address: 206.47.98.98
+
+Whois
+RDAP
+DNS Records
+Uptime
+Diagnostics
+Hide Contact Info
+Refresh Data
+The domain bell.ca is registered. You can still try to buy it here.
+
+Registrar Information
+Registrar
+MarkMonitor International Canada Ltd.
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+Markmonitor.com
+Important Dates
+Created
+10/11/2000
+Updated
+11/13/2025
+Expires
+12/15/2027
+Nameservers
+Hostname	IP Address
+mtl02vnszs07.srvr.bell.ca	207.236.176.16
+mtl02vnszs08.srvr.bell.ca	207.236.176.10
+tor63vnszp07.srvr.bell.ca	207.164.234.44
+tor63vnszp08.srvr.bell.ca	207.164.234.46
+toroon63nszp01.srvr.bell.ca	207.164.234.42
+toroondcnszs01.srvr.bell.ca	207.236.176.30
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Contact Information
+Registrant Contact
+Name
+Bell Canada
+Organization
+Bell Canada
+Address
+Verdun, QC
+CA
+Phone
++1.5148702477
+Fax
++1.5148704833
+Email
+trademarks [at] bell [dot] ca
+Admin Contact
+Name
+Peggy Pare
+Organization
+Bell Canada
+Address
+Verdun, QC
+CA
+Phone
++1.5148702477
+Fax
++1.5148704833
+Email
+trademarks [at] bell [dot] ca
+Tech Contact
+Name
+Peggy Pare
+Organization
+Bell Canada
+Address
+Verdun, QC
+CA
+Phone
++1.5148702477
+Fax
++1.5148704833
+Email
+trademarks [at] bell [dot] ca
+Similar Domains
+bell-01.com
+bell01.com
+bell039renov.site-solocal.com
+bell0769.com
+bell08.org.uk
+bel-l0s.info
+bell0tti.com
+bell-1003.com
+bell-100515.weeblysite.com
+bell-100hotmail.co.uk
+
+5. timhortons.ca
+timhortons.ca
+WHOIS Information
+
+IP Address: 18.173.132.97
+
+Whois
+RDAP
+DNS Records
+Uptime
+Diagnostics
+Hide Contact Info
+Refresh Data
+The domain timhortons.ca is registered. You can still try to buy it here.
+
+Registrar Information
+Registrar
+CSC Corporate Domains (Canada) Company
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+www.cscglobal.com
+Important Dates
+Created
+9/28/2000
+Updated
+2/11/2025
+Expires
+2/25/2026
+Nameservers
+Hostname	IP Address
+udns1.cscdns.net	204.74.66.1
+udns2.cscdns.uk	204.74.111.1
+Domain Status
+ok https://icann.org/epp#ok
+Contact Information
+Registrant Contact
+Name
+Tim Hortons Canadian IP Holdings Corporation
+Address
+Oakville, ON
+CA
+Phone
++1.9058456511
+Fax
++1.9058452931
+Email
+webadmin [at] timhortons [dot] com
+Admin Contact
+Name
+Jon Domanko
+Organization
+Tim Hortons Canadian IP Holdings Corporation
+Address
+Oakville, ON
+CA
+Phone
++1.9053396226
+Fax
++1.9058450763
+Email
+webadmin [at] timhortons [dot] com
+Tech Contact
+Name
+Rabin Samaroo
+Organization
+Tim Hortons Inc.
+Address
+Oakville, ON
+CA
+Phone
++1.8008462487
+Fax
++1.8008462487
+Email
+webadmin [at] timhortons [dot] com
+Similar Domains
+timho5rb0ah95cbu207ffth4eet5jem0.top
+timhoachat.com
+timhoa.com
+timhoacuoi.com
+timhoada.com
+timhoad.com
+timhoad.co.uk
+timhoad.net
+timhoag.blog
+timhoag.com

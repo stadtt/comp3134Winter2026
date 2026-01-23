@@ -1,0 +1,72 @@
+IP of domains
+
+1 . Facebook.com
+IPv4 addresses
+IPv4 address
+57.144.222.1
+Facebook Inc.
+Location	Amsterdam, Noord-Holland, Netherlands
+AS	AS32934
+AS name	Facebook Inc.
+IPv6 addresses
+IPv6 address
+2a03:2880:f36f:1:face:b00c::25de
+Facebook Inc.
+Location	Dublin, Leinster, Ireland
+AS	AS32934
+AS name	Facebook Inc.
+
+
+2. Google.com
+IPv4 addresses
+IPv4 address
+142.250.179.174
+Google
+Location	Amsterdam, Noord-Holland, Netherlands
+AS	AS15169
+AS name	Google
+IPv6 addresses
+IPv6 address
+2a00:1450:400e:801::200e
+Google
+Location	Dublin, Leinster, Ireland
+AS	AS15169
+AS name	Google
+
+
+3. Amazon.ca
+IPv4 addresses
+IPv4 address
+98.82.161.185
+amazon.com Inc.
+Location	Ashburn, Virginia, United States
+AS	AS14618
+
+
+4. Reddit.com
+IPv4 addresses
+IPv4 address	Revalidate in
+151.101.1.140	28s
+Fastly Inc.
+Location	San Francisco, California, United States
+AS	AS54113
+AS name	Fastly Inc.
+
+	IPv6 address	Revalidate in
+2a04:4e42:200::396	1m 8s
+Fastly Inc.
+Location	, , Hong Kong SAR China
+AS	AS54113
+AS name	Fastly Inc.
+
+
+5. Ebay.com
+
+	IPv4 address	Revalidate in
+2.16.6.12	8s
+Akamai International Bv
+Location	Amsterdam, Noord-Holland, Netherlands
+AS	AS20940
+AS name	Akamai International Bv
+
+

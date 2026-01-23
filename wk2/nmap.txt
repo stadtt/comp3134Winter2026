@@ -1,0 +1,35 @@
+NMAP 146.190.245.61 droplet server of classmate
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap 146.190.245.61
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-23 21:52 UTC
+Nmap scan report for 146.190.245.61
+Host is up (0.0025s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE    SERVICE
+22/tcp  open     ssh
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+
+Nmap done: 1 IP address (1 host up) scanned in 1.30 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 587 146.190.245.61
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-23 21:53 UTC
+Nmap scan report for 146.190.245.61
+Host is up (0.0041s latency).
+
+PORT    STATE    SERVICE
+587/tcp filtered submission
+
+Nmap done: 1 IP address (1 host up) scanned in 0.28 seconds
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 22-587 146.190.245.61
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-23 21:53 UTC
+Nmap scan report for 146.190.245.61
+Host is up (0.0035s latency).
+Not shown: 562 closed tcp ports (reset)
+PORT    STATE    SERVICE
+22/tcp  open     ssh
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+
+Nmap done: 1 IP address (1 host up) scanned in 1.27 seconds
