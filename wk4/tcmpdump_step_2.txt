@@ -1,0 +1,11 @@
+tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:35:14.142379 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 1597804591:1597804707, ack 2957123622, win 493, options [nop,nop,TS val 172470333 ecr 1234064222], length 116
+22:35:14.142442 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 116:152, ack 1, win 493, options [nop,nop,TS val 172470333 ecr 1234064222], length 36
+22:35:14.142487 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 152:204, ack 1, win 493, options [nop,nop,TS val 172470333 ecr 1234064222], length 52
+22:35:14.142524 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 204:272, ack 1, win 493, options [nop,nop,TS val 172470333 ecr 1234064222], length 68
+22:35:14.142561 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 272:340, ack 1, win 493, options [nop,nop,TS val 172470333 ecr 1234064222], length 68
+5 packets captured
+220 packets received by filter
+124 packets dropped by kernel

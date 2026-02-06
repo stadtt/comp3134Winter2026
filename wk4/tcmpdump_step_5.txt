@@ -1,0 +1,16 @@
+tcpdump -XX -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:39:44.479746 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 1604690051:1604690167, ack 2957189330, win 545, options [nop,nop,TS val 172740670 ecr 1234334567], length 116
+        0x0000:  fe00 0000 0101 627d 383b 765f 0800 4510  ......b}8;v_..E.
+        0x0010:  00a8 3b8c 4000 4006 db59 44b7 c29f c660  ..;.@.@..YD....`
+        0x0020:  55a3 0016 83fa 5fa5 a083 b043 20d2 8018  U....._....C....
+        0x0030:  0221 23f5 0000 0101 080a 0a4b d03e 4992  .!#........K.>I.
+        0x0040:  7367 0000 0060 0622 1eae ae47 73b2 ea3e  sg...`."...Gs..>
+        0x0050:  2f20 3532 2038 34ec 47da 5087 e683 2e82  /.52.84.G.P.....
+        0x0060:  5f20 0c67 95a9 4554 fed7 3815 45e7 1228  _..g..ET..8.E..(
+        0x0070:  bcd1 98f8 76fb d6d0 9009 59d7 d08a 0683  ....v.....Y.....
+        0x0080:  65b3 ea43 034e f5a1 49b8 6b01 134f 7476  e..C.N..I.k..Otv
+        0x0090:  e66b ec1e 2693 e0dd 357c 62ce c707 b863  .k..&...5|b....c
+        0x00a0:  b7b8 c22c 07cc ffb5 c9a3 bdb4 dad7 8196  ...,............
+        0x00b0:  c979 0f13 1ad8                           .y....

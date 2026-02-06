@@ -1,0 +1,14 @@
+tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:31:06.710375 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 1597737359:1597737475, ack 2957102858, win 495, options [nop,nop,TS val 172222901 ecr 1233816794], length 116
+22:31:06.710547 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 116:232, ack 1, win 495, options [nop,nop,TS val 172222901 ecr 1233816794], length 116
+22:31:06.715586 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 232, win 62, options [nop,nop,TS val 1233816806 ecr 172222896], length 0
+22:31:06.727594 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1:37, ack 232, win 62, options [nop,nop,TS val 1233816815 ecr 172222896], length 36
+22:31:06.727821 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 232:268, ack 37, win 495, options [nop,nop,TS val 172222919 ecr 1233816815], length 36
+22:31:06.745244 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 37:73, ack 268, win 62, options [nop,nop,TS val 1233816835 ecr 172222919], length 36
+22:31:06.745413 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 268:304, ack 73, win 495, options [nop,nop,TS val 172222936 ecr 1233816835], length 36
+22:31:06.769857 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 73:109, ack 304, win 62, options [nop,nop,TS val 1233816857 ecr 172222936], length 36
+22:31:06.770027 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 304:340, ack 109, win 495, options [nop,nop,TS val 172222961 ecr 1233816857], length 36
+22:31:06.786956 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 109:145, ack 340, win 62, options [nop,nop,TS val 1233816878 ecr 172222961], length 36
+22:31:06.787235 IP lamp-ubuntu-s-1vcpu-1gb-tor1-0

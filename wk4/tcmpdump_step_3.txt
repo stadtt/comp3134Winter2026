@@ -1,0 +1,81 @@
+tcpdump -A -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:36:10.146093 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 1597814503:1597814619, ack 2957131790, win 493, options [nop,nop,TS val 172526337 ecr 1234120226], length 116
+E.....@.@. .D....`U....._<...B@.....#......
+
+H..I.."...`y..[.z.?..W........5U...#..#.|.X/..;..U...Z....-...3.....M.`D..q.....`VK.....<.er.9(."d.j..t.N.....i.M.B..avZ.#.
+22:36:10.146149 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 116:152, ack 1, win 493, options [nop,nop,TS val 172526337 ecr 1234120226], length 36
+E..X..@.@. [D....`U....._<.[.B@.....#......
+
+H..I..".....j...N4 ........aQ ..#..5..2c.z.
+22:36:10.146183 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 152:204, ack 1, win 493, options [nop,nop,TS val 172526337 ecr 1234120226], length 52
+E..h..@.@. JD....`U....._<...B@.....#......
+
+H..I.."... GZ$|n.<.....kkME..I..X9I..;Rm.d...........ph...V
+22:36:10.146217 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 204:272, ack 1, win 493, options [nop,nop,TS val 172526337 ecr 1234120226], length 68
+E..x..@.@. 9D....`U....._<...B@.....#......
+
+H..I.."...0}....q.y@.<....Msz78+..
+.....h..@k\0.......q...Q......C|......<.
+22:36:10.146249 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 272:340, ack 1, win 493, options [nop,nop,TS val 172526337 ecr 1234120226], length 68
+E..x..@.@. 8D....`U....._<...B@.....#......
+
+H..I.."...0N.d......>.HC.&^Fmb..l....w..u......t.....F1...I^d..d..qKg=JQ.K4
+22:36:10.146277 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 340:376, ack 1, win 493, options [nop,nop,TS val 172526337 ecr 1234120226], length 36
+E..X..@.@. WD....`U....._<.;.B@.....#......
+
+H..I..".........as..:HW.M.A.....83..V.5 .H.
+22:36:10.151089 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 376, win 63, options [nop,nop,TS val 1234120242 ecr 172526329], length 0
+EH.4.C@.7.S..`U.D........B@._<._...?.#.....
+I..2
+H..
+22:36:10.155673 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1:37, ack 376, win 63, options [nop,nop,TS val 1234120247 ecr 172526329], length 36
+EH.X.D@.7.S..`U.D........B@._<._...?.......
+I..7
+H...............K~['..i;.=R&.N.=mp...;.
+22:36:10.155830 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 376:412, ack 37, win 493, options [nop,nop,TS val 172526347 ecr 1234120247], length 36
+E..X..@.@. VD....`U....._<._.B@2....#......
+
+H..I..7........J. .@t..o............g.2....
+22:36:10.176772 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 37:73, ack 412, win 63, options [nop,nop,TS val 1234120268 ecr 172526347], length 36
+EH.X.E@.7.S..`U.D........B@2_<.....?.......
+I..L
+H......(Y.P....%.....Ve....1....        ....Pr
+22:36:10.176966 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 412:448, ack 73, win 493, options [nop,nop,TS val 172526368 ecr 1234120268], length 36
+E..X..@.@. UD....`U....._<...B@V....#......
+
+H. I..L..........Z.!
+.G.Z....O.~~....>G....
+22:36:10.196797 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 73:109, ack 448, win 63, options [nop,nop,TS val 1234120288 ecr 172526368], length 36
+EH.X.F@.7.S..`U.D........B@V_<.....?.......
+I..`
+H. ....<.....^e..Q,.$...x.:...Qw.%F...<
+22:36:10.197002 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 448:484, ack 109, win 493, options [nop,nop,TS val 172526388 ecr 1234120288], length 36
+E..X..@.@. TD....`U....._<...B@z....#......
+
+H.4I..`....tx...Fly4@0....6.....        .``....O.V
+22:36:10.224176 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 109:145, ack 484, win 63, options [nop,nop,TS val 1234120310 ecr 172526388], length 36
+EH.X.G@.7.S..`U.D........B@z_<.....?.......
+I..v
+H.4.....)g..Z.V.....d...?h.R..hT.U..g..
+22:36:10.224418 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 484:520, ack 145, win 493, options [nop,nop,TS val 172526415 ecr 1234120310], length 36
+E..X..@.@. SD....`U....._<...B@.....#......
+
+H.OI..v......m....u........K..2..F...iC.m.u
+22:36:10.238769 IP 198.96.85.163.33786 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 145:181, ack 520, win 63, options [nop,nop,TS val 1234120330 ecr 172526415], length 36
+EH.X.H@.7.S..`U.D........B@._<.....?.......
+I...
+H.O....sPC[
+..g..o~.v..Y....r..s:..E.M.
+22:36:10.238980 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.33786: Flags [P.], seq 520:556, ack 181, win 493, options [nop,nop,TS val 172526430 ecr 1234120330], length 36
+E..X..@.@. RD....`U....._<...B@.....#......
+
+H.^I.......x.....T.xr-Py.O.0Q..>.._I..@..`'
+^C
+22:36:10.245544 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.38373 > 67.207.67.2.domain: 37564+ [1au] PTR? 163.85.96.198.in-addr.arpa. (55)
+E..S![..@...D...C.C....5.?.x.............163.85.96.198.in-addr.arpa.......)........
+
+18 packets captured
+513 packets received by filter
+409 packets dropped by kernel

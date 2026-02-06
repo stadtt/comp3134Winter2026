@@ -1,0 +1,20 @@
+tcpdump -n -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+22:42:26.038124 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 1604924699:1604924815, ack 2957231394, win 545, options [nop,nop,TS val 172902229 ecr 1234496120], length 116
+22:42:26.038214 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 116:232, ack 1, win 545, options [nop,nop,TS val 172902229 ecr 1234496120], length 116
+22:42:26.042735 IP 198.96.85.163.33786 > 68.183.194.159.22: Flags [.], ack 232, win 544, options [nop,nop,TS val 1234496135 ecr 172902220], length 0
+22:42:26.048595 IP 198.96.85.163.33786 > 68.183.194.159.22: Flags [P.], seq 1:37, ack 232, win 544, options [nop,nop,TS val 1234496140 ecr 172902220], length 36
+22:42:26.048767 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 232:268, ack 37, win 545, options [nop,nop,TS val 172902240 ecr 1234496140], length 36
+22:42:26.069815 IP 198.96.85.163.33786 > 68.183.194.159.22: Flags [P.], seq 37:73, ack 268, win 544, options [nop,nop,TS val 1234496160 ecr 172902240], length 36
+22:42:26.069984 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 268:304, ack 73, win 545, options [nop,nop,TS val 172902261 ecr 1234496160], length 36
+22:42:26.089284 IP 198.96.85.163.33786 > 68.183.194.159.22: Flags [P.], seq 73:109, ack 304, win 544, options [nop,nop,TS val 1234496179 ecr 172902261], length 36
+22:42:26.089488 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 304:340, ack 109, win 545, options [nop,nop,TS val 172902280 ecr 1234496179], length 36
+22:42:26.109692 IP 198.96.85.163.33786 > 68.183.194.159.22: Flags [P.], seq 109:145, ack 340, win 544, options [nop,nop,TS val 1234496199 ecr 172902280], length 36
+22:42:26.109859 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 340:376, ack 145, win 545, options [nop,nop,TS val 172902301 ecr 1234496199], length 36
+22:42:26.127515 IP 198.96.85.163.33786 > 68.183.194.159.22: Flags [P.], seq 145:181, ack 376, win 544, options [nop,nop,TS val 1234496219 ecr 172902301], length 36
+22:42:26.127730 IP 68.183.194.159.22 > 198.96.85.163.33786: Flags [P.], seq 376:412, ack 181, win 545, options [nop,nop,TS val 172902318 ecr 1234496219], length 36
+^C
+13 packets captured
+27 packets received by filter
+0 packets dropped by kernel
