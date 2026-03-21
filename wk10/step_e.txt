@@ -1,0 +1,10 @@
+basename() does not allow you to see the  traversal path, it will turn ../bla/blah/file.txt to just file.txt
+it does not expose your directory
+
+
+file_exists() checks if file exists in the given directory
+
+is_dir() checks if the given directory exists
+
+
+

@@ -1,0 +1,5 @@
+I see the entire pathname of the file on the browser
+
+
+the issue is that it exposes the entire directory path and names to any1 trying to reach the website allowing for vulnerabilities
+to be ecploited.

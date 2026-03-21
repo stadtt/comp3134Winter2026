@@ -1,0 +1,3 @@
+I see all the directories of the subdirectory on the website in an array
+
+the sensitive information is the name of all the directories in the array.
