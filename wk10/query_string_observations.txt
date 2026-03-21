@@ -1,0 +1,8 @@
+1. I was redirected to the appropriate page containing definitions.
+
+2. I was redirected to a site that said No Results found.
+
+3. I was redirected to a page that indicated i was blocked.
+
+4. setting the term to the script also redirected me a to page indicating iwas blocked
+

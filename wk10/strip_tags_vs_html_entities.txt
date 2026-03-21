@@ -1,0 +1,2 @@
+strip tags completely removes formating of html tags and prevents xss.
+html entities shows html output safely by showing the content of the html tags by using escape chars.
